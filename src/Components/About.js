@@ -4,11 +4,7 @@ export const About = () => {
   return (
     <div>
         About page
-        <p>lorendskdjksdjksdckd'
-            dkncvjldvkjdnvkndvfw
-            vdkvnjdlvbfjbvjfbvkdvldkvhriprjfwoewf
-            dwvdjlbvjdnvdsvndisjoiejfiejflcmdnlvcbjldwmvcv
-            dvdjlbvjdnvk;dmvodifoiefbfjbdmndlkfoehjfdklcvndjbc
+        <p>an demo about page
         </p>
     </div>
   )
